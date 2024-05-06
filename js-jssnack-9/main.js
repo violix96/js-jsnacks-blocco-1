@@ -19,4 +19,4 @@ for (let i = 0; i < 10 ; i++) {
 // calcolo la media 
 let medianumbers = somma / 10;
 // stampo la media in console 
-console.log(medianumbers);
+console.log('la media è :', medianumbers , 'la somma è', somma);

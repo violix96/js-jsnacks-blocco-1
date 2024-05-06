@@ -4,8 +4,8 @@
 console.log("ciao mondo")
   
 // chiedo all'user di scrivere le parole tramite prompt 
-let parola1 = prompt("Scrivi la prima parola :");
-let parola2 = prompt("Scrivi la seconda parola :");
+const parola1 = prompt("Scrivi la prima parola :");
+const parola2 = prompt("Scrivi la seconda parola :");
 
 // creo una variabile per il risultato
  let parolaCorta, parolaLunga 
